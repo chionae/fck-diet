@@ -375,8 +375,7 @@ footer {
 
 .social-links {
   list-style: none;
-  float: right;
-  display: inline-block; }
+  float: right; }
   .social-links img {
     width: 1.5rem;
     margin-top: -1rem;
